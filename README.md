@@ -11,7 +11,7 @@
 - 🎬 **Cinemania** → React + TMDB API → [Live Demo](https://nan-stop-us.github.io/cinemania/)  
 - 📷 **FocusFrame** → Photography Portfolio Website (minimalist design) → [Live Demo](https://denizzozder.github.io/FocusFrame/) 
 - 🏢 **Swedish Elevator Company Theme** → Shopify Liquid + Multi-language (TR/EN/SE) [OnGoing]
-# 
+ 
 # 💻 Tech Stacks
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
