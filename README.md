@@ -74,8 +74,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/DenizzOzder/DenizzOzder/output/snake.svg" alt="Snake animation" />
 
 ###
