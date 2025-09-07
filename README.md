@@ -63,7 +63,7 @@
 </div>
 
 ###
-
+#
 <img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBzcTl6d3RvcDltdTJqMzlpYnNzZm95anY2Mmo1Z29qdTl0YjJvMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aNqEFrYVnsS52/giphy.gif"  />
 
 ###
@@ -73,7 +73,7 @@
 </div>
 
 ###
-
+#
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DenizzOzder/DenizzOzder/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DenizzOzder/DenizzOzder/output/pacman-contribution-graph.svg">
