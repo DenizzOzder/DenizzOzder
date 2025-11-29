@@ -10,7 +10,7 @@
 - 💰 **Finance-Tracker / Money Guard** → React + Redux Toolkit + JWT Auth + REST API → [Live Demo](https://finance-tracker-last.vercel.app)
 - 🎬 **Cinemania** → React + TMDB API → [Live Demo](https://nan-stop-us.github.io/cinemania/)  
 - 📷 **FocusFrame** → Photography Portfolio Website (minimalist design) → [Live Demo](https://denizzozder.github.io/FocusFrame/)
-- 🐶 **Celsius Veterinärklink** → A sleek and responsive veterinary clinic website developed for a Swedish client → HTML/CSS + JavaScript [Started]
+- 🐶 **Celsius Veterinärklink** → A sleek and responsive veterinary clinic website developed for a Swedish client → [Started]
 - 🏢 **Swedish Elevator Company Theme** → Shopify Liquid + Multi-language (TR/EN/SE) [OnGoing] [Paused]
 - 💡 **Digital Media Agency Portfolio** → Typescript + React [OnGoing] [Paused]
  
