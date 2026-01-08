@@ -49,7 +49,7 @@
 
 ###
 # 🤝 Connect With Me
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/denizozder1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -64,23 +64,10 @@
   </a>
 </div>
 
-###
-#
-<img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBzcTl6d3RvcDltdTJqMzlpYnNzZm95anY2Mmo1Z29qdTl0YjJvMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aNqEFrYVnsS52/giphy.gif"  />
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DenizzOzder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
-</div>
-
-###
-#
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DenizzOzder/DenizzOzder/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DenizzOzder/DenizzOzder/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DenizzOzder/DenizzOzder/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
