@@ -8,7 +8,8 @@
 ###
 # 🚀 Featured Projects
 - 🐶 **Celsius Veterinärklink** → A sleek and responsive veterinary clinic website developed for a Swedish client → [Live Demo](https://celcius-dev.vercel.app/)
-- 💰 **Money Guard** → React + Redux Toolkit + JWT Auth + REST API → [Live Demo](https://finance-tracker-last.vercel.app)
+- 📋 **TaskPro** → Kanban Board Task Management App (Team Project) | MERN Stack + Redux → [Live Demo](sky-net-two.vercel.app) 
+- 💰 **Money Guard** → Finance Tracker App (Team Project) React + Redux Toolkit + JWT Auth + REST API  → [Live Demo](https://finance-tracker-last.vercel.app)
 - 🎬 **Cinemania** → React + TMDB API → [Live Demo](https://nan-stop-us.github.io/cinemania/)  
 - 📷 **FocusFrame** → Photography Portfolio Website (minimalist design) → [Live Demo](https://denizzozder.github.io/FocusFrame/)
 - 🏢 **Swedish Elevator Company Theme** → Shopify Liquid + Multi-language (TR/EN/SE) [OnGoing] [Paused]
