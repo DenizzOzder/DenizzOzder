@@ -1,66 +1,46 @@
-<h1 align="center">Hi 👋! I'm Deniz, FullStack Developer from Turkey</h2>
+<h1 align="center">Selam 👋 Ben Deniz.</h1>
+
+<p align="center">
+  <i>Fullstack Developer</i> | <a href="https://denizozder.com" target="_blank">denizozder.com</a>
+</p>
+
+<p align="center">
+  Şu an backend altyapısını geliştirdiğim <b>Bimakas</b> ve takım liderliğini yürüttüğüm <b>Celcius</b> projeleri üzerinde aktif olarak çalışıyorum. Ağırlıklı olarak modern web teknolojileri ve veritabanı mimarileriyle ilgileniyor, her gün yeni bir şeyler öğrenip kendimi geliştirmeyi seviyorum.
+</p>
 
 ###
 
-<h3 align="center">Creating bugs since 2024 💻✨</p>
-<h3 align="center">Guarding Goals since 2013 ⚽🏟🥅</h3>
-
-###
-# 🚀 Featured Projects
-- 🐶 **Celsius Veterinärklink** → A sleek and responsive veterinary clinic website developed for a Swedish client → [Live Demo](https://celcius-dev.vercel.app/)
-- 📋 **TaskPro** → Kanban Board Task Management App (Team Project) | MERN Stack + Redux → [Live Demo](https://sky-net-two.vercel.app/)
-- 💰 **Money Guard** → Finance Tracker App (Team Project) React + Redux Toolkit + JWT Auth + REST API  → [Live Demo](https://finance-tracker-last.vercel.app)
-- 🎬 **Cinemania** → React + TMDB API → [Live Demo](https://nan-stop-us.github.io/cinemania/)  
-- 📷 **FocusFrame** → Photography Portfolio Website (minimalist design) → [Live Demo](https://denizzozder.github.io/FocusFrame/)
-- 🏢 **Swedish Elevator Company Theme** → Shopify Liquid + Multi-language (TR/EN/SE) [OnGoing] [Paused]
-- 💡 **Digital Media Agency Portfolio** → Typescript + React [OnGoing] [Paused]
- 
-# 💻 Tech Stacks
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,graphql" height="50" alt="frontend tech" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,cs,cpp,redis,docker" height="50" alt="backend tech" />
 </div>
 
 ###
-# 🤝 Connect With Me
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/denizozder1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://denizozder.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=denizozder.com&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website" />
+  </a>
+  <a href="https://www.linkedin.com/in/denizozder1/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="mailto:contact@denizozder.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/deniz.ozder1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/candenizozder08" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=DenizzOzder&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DenizzOzder&radius=16&theme=tokyonight&area=true&order=5" height="150" alt="activity-graph graph" />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DenizzOzder/DenizzOzder/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DenizzOzder/DenizzOzder/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DenizzOzder/DenizzOzder/output/pacman-contribution-graph.svg">
+</picture>
